@@ -76,7 +76,6 @@ nav {
 .col {
 	flex: 1 1 calc(33.3% - 20px);
 	box-sizing: border-box;
-	max-height: 550px;
 }
 
 .card {
@@ -104,6 +103,7 @@ nav {
 	width: 100%;
 	height: auto;
 }
+
 .card-title {
 	font-size: 20px;
 	text-align: center;
